@@ -1,10 +1,14 @@
+# رضااسماعیل گل | Reza Esmaeil Gol
+
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Reza Esmaeil Gol — Full-Stack Developer, AI and SaaS Builder" />
+<img src="./assets/profile-banner.svg" width="100%" alt="رضااسماعیل گل | Reza Esmaeil Gol — Full-Stack Developer, AI and SaaS Builder" />
 
 <br />
 
 ### Full-Stack Developer · AI & SaaS Builder · Mobile · SEO
+
+**رضااسماعیل گل — توسعه‌دهنده فول‌استک وب و موبایل، سازنده محصولات SaaS و راهکارهای هوش مصنوعی**
 
 **I turn real business problems into production-ready software.**
 
@@ -34,7 +38,7 @@
 <tr>
 <td width="62%" valign="top">
 
-I'm **Reza Esmaeil Gol**, a full-stack web and mobile developer focused on building useful products from idea to production.
+I'm **Reza Esmaeil Gol (رضااسماعیل گل)**, a full-stack web and mobile developer focused on building useful products from idea to production.
 
 - 🚀 Product development: **idea → architecture → UI/UX → development → deployment**
 - 🤖 AI assistants, agents, RAG, semantic search and workflow automation
@@ -95,23 +99,31 @@ npx skills add RezaEsmailGol/lahne-man --skill lahne-man --global --yes
 
 ---
 
-## 🚧 Currently Building
+## 🤖 Robatina
 
-<img src="./assets/currently-building-robatina.svg" width="100%" alt="Currently building Robatina — AI Assistant and Business Agent Platform" />
+<a href="https://github.com/RezaEsmailGol#-robatina">
+  <img src="./assets/currently-building-robatina.svg" width="100%" alt="Robatina — AI assistants and business agents by رضااسماعیل گل" />
+</a>
 
-**Robatina** is an AI assistant and business-agent platform built around RAG, workflow automation, tool integrations, long-term memory and local/cloud model routing.
+**AI assistants and business agents with RAG, workflow automation, memory and tool integrations.**
+
+Robatina is being built as a practical AI assistant and business-agent platform with long-term memory, tool integrations, workflow automation and local/cloud model routing.
+
+**Python · FastAPI · Ollama · FAISS · Agents**
+
+[🔗 Robatina on this profile](https://github.com/RezaEsmailGol#-robatina)
 
 ---
 
 ## ⚡ Tech Stack
 
-<img src="./assets/tech-stack.svg" width="100%" alt="Technology stack used by Reza Esmaeil Gol" />
+<img src="./assets/tech-stack.svg" width="100%" alt="Technology stack used by رضااسماعیل گل | Reza Esmaeil Gol" />
 
 ---
 
 ## 🧠 Developer Snapshot
 
-<img src="./assets/developer-snapshot.svg" width="100%" alt="Developer snapshot and focus areas" />
+<img src="./assets/developer-snapshot.svg" width="100%" alt="Developer snapshot and focus areas of رضااسماعیل گل | Reza Esmaeil Gol" />
 
 ---
 
@@ -130,7 +142,7 @@ My personal product studio, portfolio and academy for web, mobile, SaaS and AI p
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Robatina
+### [🤖 Robatina](https://github.com/RezaEsmailGol#-robatina)
 AI assistants and business agents with RAG, workflow automation, memory and tool integrations.
 
 **Python · FastAPI · Ollama · FAISS · Agents**
