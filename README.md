@@ -1,151 +1,87 @@
-# رضااسماعیل گل | Reza Esmaeil Gol
-
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="رضااسماعیل گل | Reza Esmaeil Gol — Full-Stack Developer, AI and SaaS Builder" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Mohammad Reza Esmail Gol — Software Engineer focused on Odoo, Python backend, full-stack and AI/LLM" />
 
 <br />
 
-### Full-Stack Developer · AI & SaaS Builder · Mobile · SEO
+<a href="https://rezagol.ir"><img src="https://img.shields.io/badge/Portfolio-rezagol.ir-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/reza-esmaeil-gol-610b1355"><img src="https://img.shields.io/badge/LinkedIn-Mohammad_Reza_Esmail_Gol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/RezaEsmailGol"><img src="https://img.shields.io/badge/GitHub-RezaEsmailGol-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-**رضااسماعیل گل — توسعه‌دهنده فول‌استک وب و موبایل، سازنده محصولات SaaS و راهکارهای هوش مصنوعی**
+<br /><br />
 
-**I turn real business problems into production-ready software.**
+**Software Engineer · Odoo Developer · Python Backend · Full-Stack · AI / LLM**
 
-<p>
-  <a href="https://rezagol.ir"><img src="https://img.shields.io/badge/Website-rezagol.ir-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/reza-esmaeil-gol-610b1355"><img src="https://img.shields.io/badge/LinkedIn-Reza_Esmaeil_Gol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/RezaEsmailGol"><img src="https://img.shields.io/badge/GitHub-RezaEsmailGol-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+**B.Sc. Software Engineering · Open to relocation to Austria / Vienna**
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="SEO" />
-</p>
+[English](#english) · [فارسی](#فارسی)
 
 </div>
 
 ---
 
-## 👋 About Me
+<a id="english"></a>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## 👋 Hello
 
-I'm **Reza Esmaeil Gol (رضااسماعیل گل)**, a full-stack web and mobile developer focused on building useful products from idea to production.
+I'm **Mohammad Reza Esmail Gol**, a software engineer who builds production-ready business software from idea and architecture through implementation, integration and deployment.
 
-- 🚀 Product development: **idea → architecture → UI/UX → development → deployment**
-- 🤖 AI assistants, agents, RAG, semantic search and workflow automation
-- 🌐 SaaS platforms, dashboards, e-commerce and SEO-focused systems
-- 📱 Android, Flutter, Kotlin and React Native applications
-- ⚙️ Performance, scalable architecture and business automation
+My current job-search focus is:
 
-</td>
-<td width="38%" valign="top">
+**Odoo Developer · Python Developer · Backend Developer · Software Developer · Full-Stack Developer · AI / LLM Engineer**
 
-### Current focus
-
-`AI Agents`  
-`SaaS Products`  
-`Local + Cloud LLM`  
-`Automation`  
-`SEO & Search`  
-`Mobile Products`
-
-**Build useful things. Ship. Learn. Improve.**
-
-</td>
-</tr>
-</table>
+I enjoy work where software has a clear operational impact: **ERP and business workflows, APIs, SaaS products, automation, AI assistants, payments, commerce and data-driven systems**.
 
 ---
 
-## ✨ Featured Open Source — لحن من
+## 🎯 Recruiter Snapshot
 
-<a href="https://github.com/RezaEsmailGol/lahne-man">
-  <img src="https://raw.githubusercontent.com/RezaEsmailGol/lahne-man/main/assets/lahne-man-cover.jpg" width="100%" alt="لحن من — ویرایش طبیعی متن فارسی با حفظ لحن نویسنده" />
-</a>
+<img src="./assets/developer-snapshot.svg" width="100%" alt="Recruiter snapshot — Odoo, Python Backend, AI/LLM and Full-Stack Product Engineering" />
 
-<div align="center">
-
-### 🪶 [Lahne Man — لحن من](https://github.com/RezaEsmailGol/lahne-man)
-
-**ویرایش طبیعی متن فارسی، بدون از بین بردن لحن واقعی نویسنده**
-
-<p>
-  <a href="https://github.com/RezaEsmailGol/lahne-man/stargazers"><img src="https://img.shields.io/github/stars/RezaEsmailGol/lahne-man?style=for-the-badge&logo=github&label=Stars" alt="Lahne Man Stars" /></a>
-  <a href="https://github.com/RezaEsmailGol/lahne-man/network/members"><img src="https://img.shields.io/github/forks/RezaEsmailGol/lahne-man?style=for-the-badge&logo=github&label=Forks" alt="Lahne Man Forks" /></a>
-  <a href="https://github.com/RezaEsmailGol/lahne-man/blob/main/LICENSE"><img src="https://img.shields.io/github/license/RezaEsmailGol/lahne-man?style=for-the-badge&label=License" alt="Lahne Man License" /></a>
-  <img src="https://img.shields.io/badge/Persian-AI%20Writing-20C997?style=for-the-badge" alt="Persian AI Writing" />
-</p>
-
-</div>
-
-**Lahne Man** is an open-source Persian writing skill that reduces repetitive, machine-like writing patterns while preserving the writer's personal voice, technical details and natural rhythm.
-
-```bash
-npx skills add RezaEsmailGol/lahne-man --skill lahne-man --global --yes
-```
-
-> اگر فارسی می‌نویسی و نمی‌خواهی متن شبیه خروجی کلیشه‌ای هوش مصنوعی شود، «لحن من» برای همین ساخته شده است.
-
-**→ [View project, documentation and examples](https://github.com/RezaEsmailGol/lahne-man)**
+| Area | What I work with |
+|---|---|
+| **Odoo / ERP** | Odoo 18, Python, custom modules, workflow customization, business-process validation |
+| **Python Backend** | Django, FastAPI, REST APIs, PostgreSQL, MySQL, Redis, integrations |
+| **AI / LLM** | AI agents, RAG, semantic search, Ollama, FAISS, LangChain, LlamaIndex, tool integrations |
+| **Full-Stack** | Next.js, React, Laravel, PHP, Tailwind/MUI, dashboards, SaaS and e-commerce |
+| **Mobile** | Flutter, React Native, Kotlin, Android, Capacitor |
+| **Delivery** | Docker, Linux, Git, WordPress/WooCommerce integrations, payment and external APIs |
 
 ---
 
-## 🤖 Robatina
-
-<a href="https://github.com/RezaEsmailGol#-robatina">
-  <img src="./assets/currently-building-robatina.svg" width="100%" alt="Robatina — AI assistants and business agents by رضااسماعیل گل" />
-</a>
-
-**AI assistants and business agents with RAG, workflow automation, memory and tool integrations.**
-
-Robatina is being built as a practical AI assistant and business-agent platform with long-term memory, tool integrations, workflow automation and local/cloud model routing.
-
-**Python · FastAPI · Ollama · FAISS · Agents**
-
-[🔗 Robatina on this profile](https://github.com/RezaEsmailGol#-robatina)
-
----
-
-## ⚡ Tech Stack
-
-<img src="./assets/tech-stack.svg" width="100%" alt="Technology stack used by رضااسماعیل گل | Reza Esmaeil Gol" />
-
----
-
-## 🧠 Developer Snapshot
-
-<img src="./assets/developer-snapshot.svg" width="100%" alt="Developer snapshot and focus areas of رضااسماعیل گل | Reza Esmaeil Gol" />
-
----
-
-## ⭐ Selected Products
+## 🚀 Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 RezaGol
-My personal product studio, portfolio and academy for web, mobile, SaaS and AI projects.
+### 🤖 Robatina
+Business automation and AI-agent platform built around practical customer workflows.
 
-**Next.js · Laravel · AI · SEO**  
-[rezagol.ir](https://rezagol.ir)
+**Highlights**
+- Customer 360 and CRM
+- Unified communication workflows
+- Billing and notification flows
+- AI assistants, RAG and tool integrations
+- Telegram / Bale business automation
+- WooCommerce and service connectors
+
+**Stack:** Python · FastAPI · AI Agents · RAG · Redis · MySQL
 
 </td>
 <td width="50%" valign="top">
 
-### [🤖 Robatina](https://github.com/RezaEsmailGol#-robatina)
-AI assistants and business agents with RAG, workflow automation, memory and tool integrations.
+### ⚙️ Odoo / ERP Work
+Odoo 18 configuration, testing and customization for real business processes.
 
-**Python · FastAPI · Ollama · FAISS · Agents**
+**Highlights**
+- Python-based customization
+- Department / employee workflow validation
+- Business rules and process testing
+- ERP research and implementation planning
+- Integration-oriented backend work
+
+**Focus:** Odoo · Python · PostgreSQL · ERP workflows
 
 </td>
 </tr>
@@ -153,137 +89,131 @@ AI assistants and business agents with RAG, workflow automation, memory and tool
 <td width="50%" valign="top">
 
 ### 🦺 HSEBAN
-HSE SaaS platform for safety workflows, CAPA, risk management, experts, jobs and business operations.
+SaaS platform for health, safety and environment operations.
 
-**SaaS · HSE · Automation · Analytics**  
-[hseban.ir](https://hseban.ir)
+**Highlights**
+- Safety workflows and CAPA
+- Risk and operational processes
+- Dashboards and business automation
+- Multi-module SaaS architecture
 
-</td>
-<td width="50%" valign="top">
-
-### 🧾 SoratYar
-Invoice and product-sharing SaaS with OTP access, public invoices and online payment flows.
-
-**Next.js · Prisma · MySQL · Payments**  
-[soratyar.ir](https://soratyar.ir)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛋️ RayanMobl
-Furniture e-commerce platform focused on search, product discovery and online ordering.
-
-**Next.js · PHP API · E-commerce · SEO**  
-[rayanmobl.ir](https://rayanmobl.ir)
+**Focus:** SaaS · Automation · Analytics · Business software
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Exploring Next
+### 🧾 Commerce & Payment Systems
+Web products and integrations for orders, payments and customer flows.
 
-- Multi-agent business automation
-- Long-term memory for assistants
-- Human approval + tool execution
-- Local/cloud model routing
-- AI-native CRM and commerce
-- Reliable mobile AI experiences
+**Highlights**
+- WooCommerce connectors
+- Payment gateway integrations
+- Wallet / checkout workflows
+- OTP and public invoice flows
+- SEO-aware product platforms
+
+**Stack:** Next.js · Laravel/PHP · MySQL · APIs · Payments
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧩 What I Build
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### 🌐 Web & SaaS
-Custom platforms  
-Admin dashboards  
-CRM & billing  
-E-commerce  
-SEO-first websites
-
-</td>
-<td width="25%" valign="top">
-
-### 📱 Mobile
-Android  
-Flutter  
-Kotlin  
-React Native  
-PWA / Hybrid
-
-</td>
-<td width="25%" valign="top">
-
-### 🤖 AI
-AI agents  
-RAG  
-Local LLM  
-Automation  
-Tool integrations
-
-</td>
-<td width="25%" valign="top">
-
-### 📈 Product
-MVP → production  
-Architecture  
-UX  
-Analytics  
-Performance
-
-</td>
-</tr>
-</table>
+> Most commercial and client projects are private. Public repositories are used for open-source tools, reusable work and selected experiments.
 
 ---
 
-## 🧠 Primary Languages
-
-<img src="./assets/languages.svg" width="100%" alt="Primary programming languages used in current work" />
-
----
-
-## 🔓 Open Source
+## ✨ Featured Open Source — Lahne Man / لحن من
 
 <div align="center">
 
-<a href="https://github.com/RezaEsmailGol/lahne-man"><img src="https://img.shields.io/badge/🪶_لحن_من-Persian_Writing_Skill-20C997?style=for-the-badge" alt="Lahne Man" /></a>
-<a href="https://github.com/RezaEsmailGol/wp-booster"><img src="https://img.shields.io/badge/wp--booster-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wp-booster" /></a>
-<a href="https://github.com/RezaEsmailGol/vertical-sidebar"><img src="https://img.shields.io/badge/vertical--sidebar-UI-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="vertical-sidebar" /></a>
-<a href="https://github.com/RezaEsmailGol/Portfolio-website-multi-langual"><img src="https://img.shields.io/badge/Portfolio-Multilingual-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/RezaEsmailGol/lahne-man">
+  <img src="https://raw.githubusercontent.com/RezaEsmailGol/lahne-man/main/assets/lahne-man-cover.jpg" width="760" alt="Lahne Man — Persian writing skill" />
+</a>
+
+### 🪶 [Lahne Man — لحن من](https://github.com/RezaEsmailGol/lahne-man)
+
+**Open-source Persian writing skill for more natural AI-assisted writing while preserving the author's voice.**
+
+<a href="https://github.com/RezaEsmailGol/lahne-man/stargazers"><img src="https://img.shields.io/github/stars/RezaEsmailGol/lahne-man?style=for-the-badge&logo=github&label=Stars" alt="Lahne Man Stars" /></a>
+<a href="https://github.com/RezaEsmailGol/lahne-man/network/members"><img src="https://img.shields.io/github/forks/RezaEsmailGol/lahne-man?style=for-the-badge&logo=github&label=Forks" alt="Lahne Man Forks" /></a>
+<a href="https://github.com/RezaEsmailGol/lahne-man/blob/main/LICENSE"><img src="https://img.shields.io/github/license/RezaEsmailGol/lahne-man?style=for-the-badge&label=License" alt="License" /></a>
 
 </div>
 
-Most commercial products and client systems are kept private; public repositories focus on open-source tools, experiments and reusable work.
+```bash
+npx skills add RezaEsmailGol/lahne-man --skill lahne-man --global --yes
+```
+
+**→ [Project, documentation and source code](https://github.com/RezaEsmailGol/lahne-man)**
 
 ---
 
-## 🐍 Contribution Energy
+## 🧰 Engineering Stack
 
-<img src="./assets/github-snake.svg" width="100%" alt="Contribution snake — keep contributing, keep growing" />
+<img src="./assets/tech-stack.svg" width="100%" alt="Engineering stack — Odoo, Python, Django, FastAPI, Next.js, React, Laravel, AI/LLM, databases, mobile and Docker" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🧭 How I Work
+
+- **Business-first engineering:** I start from the workflow and the real operational problem.
+- **End-to-end ownership:** architecture, UI, backend, integrations, testing and deployment.
+- **Practical AI:** I use LLMs when they improve a workflow, not just to add an AI label.
+- **Integration mindset:** APIs, payments, messaging, WooCommerce, ERP and external services.
+- **Production focus:** maintainability, performance, validation and reliable delivery.
+
+---
+
+## 🎓 Education & Mobility
+
+- **Bachelor's Degree in Software Engineering** — Islamic Azad University, Qom Branch, Iran
+- **Based in:** Qom, Iran
+- **Relocation:** open to **Vienna / Austria**
+- **Work authorization:** Non-EU applicant; Austrian work permit / employer sponsorship required
+- **Languages:** Persian (native), English (B2), German (actively learning)
+
+---
+
+<a id="فارسی"></a>
+
+## 🇮🇷 درباره من
+
+من **محمدرضا اسماعیل‌گل**، مهندس نرم‌افزار و توسعه‌دهنده وب و بک‌اند هستم. تمرکز فعلی من برای فرصت‌های شغلی بین‌المللی روی **Odoo، Python Backend، توسعه Full-Stack و AI/LLM** است.
+
+در پروژه‌ها معمولاً از مرحله تحلیل مسئله و طراحی معماری تا توسعه، اتصال سرویس‌ها، تست و استقرار همراه محصول هستم. تجربه من بیشتر در **نرم‌افزارهای کسب‌وکاری، SaaS، اتوماسیون، API، سیستم‌های پرداخت، فروشگاه اینترنتی، دستیارهای هوشمند و RAG** شکل گرفته است.
+
+### حوزه‌های کاری مورد علاقه
+**Odoo Developer · Python Developer · Backend Developer · Software Developer · Full-Stack Developer · AI / LLM Engineer**
+
+برای فرصت شغلی در **اتریش، به‌خصوص وین** آماده جابه‌جایی هستم.
+
+---
+
+## 🤝 Contact
 
 <div align="center">
 
-### Building something useful?
+**Open to software engineering opportunities, especially in Austria and Europe.**
 
-I'm open to **product collaborations, technical challenges, AI/SaaS projects and engineering opportunities**.
-
-[🌐 **rezagol.ir**](https://rezagol.ir) · [💼 **LinkedIn**](https://www.linkedin.com/in/reza-esmaeil-gol-610b1355) · [▶️ **YouTube**](https://www.youtube.com/@rezagol_ir) · [📷 **Instagram**](https://instagram.com/rezagol.ir)
+[🌐 Portfolio](https://rezagol.ir) · [💼 LinkedIn](https://www.linkedin.com/in/reza-esmaeil-gol-610b1355) · [💻 GitHub](https://github.com/RezaEsmailGol)
 
 <br />
 
-**Code. Build. Ship. Improve.** 🚀
+**Build useful software. Solve real problems. Ship reliably.**
 
 </div>
